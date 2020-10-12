@@ -41,7 +41,7 @@ $menu = $menu["menu"];
                 <h1>All Menu</h1>
             </div>
         </div>
-        
+         
         <div class="row">
             <?php foreach ($menu as $row) : ?>
             
