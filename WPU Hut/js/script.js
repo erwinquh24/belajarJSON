@@ -22,7 +22,7 @@ function allMenu(param) {
 }
 //wdw
 allMenu();
-
+//test
 $(".nav-link").on("click", function () {
   content = "";
   $(".nav-link").removeClass("active");
