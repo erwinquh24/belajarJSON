@@ -20,7 +20,7 @@ function allMenu(param) {
     $("#daftar-menu").html(content);
   });
 }
-
+//wdw
 allMenu();
 
 $(".nav-link").on("click", function () {
