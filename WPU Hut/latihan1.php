@@ -26,7 +26,6 @@ $menu = $menu["menu"];
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                <div class="navbar-nav">
                 <a class="nav-link active" href="#">HomE</a>
                 </div>
                 </div>
@@ -38,7 +37,7 @@ $menu = $menu["menu"];
     <div class="container">
         <div class="row">
             <div class="col">
-                <h1>All Menu</h1>
+                <h1>all Menu</h1>
             </div>
         </div>
          
