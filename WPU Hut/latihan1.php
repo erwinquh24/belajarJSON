@@ -37,7 +37,7 @@ $menu = $menu["menu"];
     <div class="container">
         <div class="row">
             <div class="col">
-                <h1>all Menu</h1>
+                <h1>all menu</h1>
             </div>
         </div>
          
