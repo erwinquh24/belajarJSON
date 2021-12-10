@@ -27,7 +27,7 @@ $menu = $menu["menu"];
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                <a class="nav-link active" href="#">Home</a>
+                <a class="nav-link active" href="#">HomE</a>
                 </div>
                 </div>
         </div>
